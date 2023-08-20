@@ -1,0 +1,92 @@
+[
+  {
+    "HARBOR": {
+      "agent": "Harbor",
+      "img": "assets/Harbor/Harbor-Character.png",
+      "id": "C001",
+      "color": "0xFF3C4B66",
+      "type": "Controller",
+      "description": "Hailing from India's coast, Harbor storms the field wielding ancient technology with dominion over water. He unleashes frothing rapids and crushing waves to shield his allies, or pummel those that oppose him. "
+    },
+    "JETT": {
+      "agent": "Jett",
+      "img": "assets/Jett/Jett-Character.png",
+      "id": "C002",
+      "color": "0xFFB7D2DA",
+      "type": "Duelist",
+      "description": "Representing her home country of South Korea, Jett's agile and evasive fighting style lets her take risks no one else can. She runs circles around every skirmish, cutting enemies before they even know what hit them. "
+    },
+    "ASTRA": {
+      "agent": "Astra",
+      "img": "assets/Astra/Astra-Character.png",
+      "id": "C003",
+      "color": "0xFFB362AC",
+      "type": "Controller",
+      "description": "Ghanaian Agent Astra harnesses the energies of the cosmos to reshape battlefields to her whim. With full command of her astral form and a talent for deep strategic foresight, she’s always eons ahead of her enemy’s next move. "
+    },
+    "BRIMSTONE": {
+      "agent": "Brimstone",
+      "img": "assets/Brimstone/Brimstone-Character.png",
+      "id": "C004",
+      "color": "0xFF7F3319",
+      "type": "Controller",
+      "description": "Joining from the USA, Brimstone's orbital arsenal ensures his squad always has the advantage. His ability to deliver utility precisely and from a distance make him an unmatched boots-on-the-ground commander. "
+    },
+    "NEON": {
+      "agent": "Neon",
+      "img": "assets/Neon/Neon-Character.png",
+      "id": "C005",
+      "color": "0xFF566AAF",
+      "type": "Duelist",
+      "description": "Filipino Agent, Neon, surges forward at shocking speeds, discharging bursts of bioelectric radiance as fast as her body generates it. She races ahead to catch enemies off guard, then strikes them down quicker than lightning. "
+    },
+    "OMEN": {
+      "agent": "Omen",
+      "img": "assets/Omen/Omen-Character.png",
+      "id": "C006",
+      "color": "0xFF393455",
+      "type": "Controller",
+      "description": "A phantom of a memory, Omen hunts in the shadows. He renders enemies blind, teleports across the field, then lets paranoia take hold as his foe scrambles to learn where he might strike next. "
+    },
+    "PHOENIX": {
+      "agent": "Phoenix",
+      "img": "assets/Phoenix/Phoenix-Character.png",
+      "id": "C007",
+      "color": "0xFFE58B47",
+      "type": "Duelist",
+      "description": "Hailing from the U.K., Phoenix's star power shines through in his fighting style, igniting the battlefield with flash and flare. Whether he's got backup or not, he'll rush into a fight on his own terms. "
+    },
+    "RAZE": {
+      "agent": "Raze",
+      "img": "assets/Raze/Raze-Character.png",
+      "id": "C008",
+      "color": "0xFFBE4D2F",
+      "type": "Duelist",
+      "description": "Raze explodes out of Brazil with her big personality and big guns. With her blunt-force-trauma playstyle, she excels at flushing entrenched enemies and clearing tight spaces with a generous dose of BOOM"
+    },
+    "REYNA": {
+      "agent": "Reyna",
+      "img": "assets/Reyna/Reyna-Character.png",
+      "id": "C009",
+      "color": "0xFF7B3675",
+      "type": "Duelist",
+      "description": "Forged in the heart of Mexico, Reyna dominates single combat, popping off with each kill she scores. Her capability is only limited by her raw skill, making her highly dependent on performance. "
+    },
+    "VIPER": {
+      "agent": "Viper",
+      "img": "assets/Viper/Viper-Character.png",
+      "id": "C010",
+      "color": "0xFF2A4334",
+      "type": "Controller",
+      "description": "The American chemist, Viper deploys an array of poisonous chemical devices to control the battlefield and choke the enemy's vision. If the toxins don't kill her prey, her mind games surely will. "
+    },
+    "YORU": {
+      "agent": "Yoru",
+      "img": "assets/Yoru/Yoru-Character.png",
+      "id": "C011",
+      "color": "0xFF3D498D",
+      "type": "Duelist",
+      "description": "Japanese native Yoru rips holes straight through reality to infiltrate enemy lines unseen. Using deception and aggression in equal measure, he gets the drop on each target before they know where to look. "
+    }
+  }
+]

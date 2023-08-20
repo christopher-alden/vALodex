@@ -1,0 +1,79 @@
+[
+  {
+    "agent": "Harbor",
+    "img": "assets/Harbor/Harbor-Character.png",
+    "id": "C001",
+    "color": "0xFF3C4B66",
+    "type": "Controller"
+  },
+  {
+    "agent": "Jett",
+    "img": "assets/Jett/Jett-Character.png",
+    "id": "C002",
+    "color": "0xFFB7D2DA",
+    "type": "Duelist"
+  },
+  {
+    "agent": "Astra",
+    "img": "assets/Astra/Astra-Character.png",
+    "id": "C003",
+    "color": "0xFFB362AC",
+    "type": "Controller"
+  },
+  {
+    "agent": "Brimstone",
+    "img": "assets/Brimstone/Brimstone-Character.png",
+    "id": "C004",
+    "color": "0xFF7F3319",
+    "type": "Controller"
+  },
+  {
+    "agent": "Neon",
+    "img": "assets/Neon/Neon-Character.png",
+    "id": "C005",
+    "color": "0xFF566AAF",
+    "type": "Duelist"
+  },
+  {
+    "agent": "Omen",
+    "img": "assets/Omen/Omen-Character.png",
+    "id": "C006",
+    "color": "0xFF393455",
+    "type": "Controller"
+  },
+  {
+    "agent": "Phoenix",
+    "img": "assets/Phoenix/Phoenix-Character.png",
+    "id": "C007",
+    "color": "0xFFE58B47",
+    "type": "Duelist"
+  },
+  {
+    "agent": "Raze",
+    "img": "assets/Raze/Raze-Character.png",
+    "id": "C008",
+    "color": "0xFFBE4D2F",
+    "type": "Duelist"
+  },
+  {
+    "agent": "Reyna",
+    "img": "assets/Reyna/Reyna-Character.png",
+    "id": "C009",
+    "color": "0xFF7B3675",
+    "type": "Duelist"
+  },
+  {
+    "agent": "Viper",
+    "img": "assets/Viper/Viper-Character.png",
+    "id": "C010",
+    "color": "0xFF2A4334",
+    "type": "Controller"
+  },
+  {
+    "agent": "Yoru",
+    "img": "assets/Yoru/Yoru-Character.png",
+    "id": "C011",
+    "color": "0xFF3D498D",
+    "type": "Duelist"
+  }
+]
